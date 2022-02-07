@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/SaraZoarob.io/Image-Filtering-app/static/css/main.74e7e341.css",
-    "main.js": "/SaraZoarob.io/Image-Filtering-app/static/js/main.126f8021.js",
-    "static/js/787.28cb0dcd.chunk.js": "/SaraZoarob.io/Image-Filtering-app/static/js/787.28cb0dcd.chunk.js",
-    "static/media/Hello.gif": "/SaraZoarob.io/Image-Filtering-app/static/media/Hello.ae786840d5b13f98a6db.gif",
-    "index.html": "/SaraZoarob.io/Image-Filtering-app/index.html",
-    "main.74e7e341.css.map": "/SaraZoarob.io/Image-Filtering-app/static/css/main.74e7e341.css.map",
-    "main.126f8021.js.map": "/SaraZoarob.io/Image-Filtering-app/static/js/main.126f8021.js.map",
-    "787.28cb0dcd.chunk.js.map": "/SaraZoarob.io/Image-Filtering-app/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/sarazoarob.io/Image-Filtering-app/static/css/main.74e7e341.css",
+    "main.js": "/sarazoarob.io/Image-Filtering-app/static/js/main.f4ddf016.js",
+    "static/js/787.28cb0dcd.chunk.js": "/sarazoarob.io/Image-Filtering-app/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Hello.gif": "/sarazoarob.io/Image-Filtering-app/static/media/Hello.ae786840d5b13f98a6db.gif",
+    "index.html": "/sarazoarob.io/Image-Filtering-app/index.html",
+    "main.74e7e341.css.map": "/sarazoarob.io/Image-Filtering-app/static/css/main.74e7e341.css.map",
+    "main.f4ddf016.js.map": "/sarazoarob.io/Image-Filtering-app/static/js/main.f4ddf016.js.map",
+    "787.28cb0dcd.chunk.js.map": "/sarazoarob.io/Image-Filtering-app/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.74e7e341.css",
-    "static/js/main.126f8021.js"
+    "static/js/main.f4ddf016.js"
   ]
 }
