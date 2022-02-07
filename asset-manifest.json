@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/IImage-Filtering/static/css/main.74e7e341.css",
-    "main.js": "/IImage-Filtering/static/js/main.06978925.js",
-    "static/js/787.28cb0dcd.chunk.js": "/IImage-Filtering/static/js/787.28cb0dcd.chunk.js",
-    "static/media/Hello.gif": "/IImage-Filtering/static/media/Hello.ae786840d5b13f98a6db.gif",
-    "index.html": "/IImage-Filtering/index.html",
-    "main.74e7e341.css.map": "/IImage-Filtering/static/css/main.74e7e341.css.map",
-    "main.06978925.js.map": "/IImage-Filtering/static/js/main.06978925.js.map",
-    "787.28cb0dcd.chunk.js.map": "/IImage-Filtering/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/Image-filtering-app/static/css/main.74e7e341.css",
+    "main.js": "/Image-filtering-app/static/js/main.8bbdc895.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Image-filtering-app/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Hello.gif": "/Image-filtering-app/static/media/Hello.ae786840d5b13f98a6db.gif",
+    "index.html": "/Image-filtering-app/index.html",
+    "main.74e7e341.css.map": "/Image-filtering-app/static/css/main.74e7e341.css.map",
+    "main.8bbdc895.js.map": "/Image-filtering-app/static/js/main.8bbdc895.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Image-filtering-app/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.74e7e341.css",
-    "static/js/main.06978925.js"
+    "static/js/main.8bbdc895.js"
   ]
 }
